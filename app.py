@@ -16,7 +16,7 @@ login(Huggingface_api_key)
 st.set_page_config(page_title='Text to math problem solver')
 st.title('Text to math problem solver')
 
-##api key
+###api key
 hf_api_key=st.sidebar.text_input('Enter your huggingface api key',type='password')
 
 if not hf_api_key:
