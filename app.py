@@ -63,7 +63,7 @@ assistant_agent=initialize_agent(
     tools=[wiki_tool,calculator,reasoning_tool],
     llm=llm,
     agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-    vervose=True,
+    verbose=True,
     handle_parsing_errors=True
 )
 
