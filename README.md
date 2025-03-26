@@ -29,8 +29,8 @@ This project is a **Streamlit-based AI-powered math problem solver** that uses *
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/text-to-math-solver.git
-   cd text-to-math-solver
+   git clone https://github.com/PrinceGupta8/Math-Solver.git
+   cd Math-Solver
    ```
 2. **Create a virtual environment** (optional but recommended)
    ```bash
